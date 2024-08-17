@@ -1,3 +1,5 @@
+# The PR adding support for more recent Micropython versions has been merged and this workaround should not be required any longer. This repository will be archived.
+
 # pyenv-install-micropython
 Pyenv plugin to install recent versions of Micropython.
 
